@@ -63,4 +63,3 @@ Orquestrador de servidor descentralizado (Tailscale + Rclone) que elimina a nece
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Zeus-Alvs/Zeus-Alvs/pacman-output/galaga-contribution-graph.svg?game=galaga">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Zeus-Alvs/Zeus-Alvs/pacman-output/galaga-contribution-graph.svg?game=galaga">
 </picture>
-
