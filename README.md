@@ -5,10 +5,15 @@
 # 💫 About Me
 
 🎓 Estudante de Desenvolvimento de Software Multiplataforma (FATEC) e Técnico em Suporte de TI (ETEC)
+
 💻 Desenvolvedor Full-Stack — do banco de dados e APIs até a interface do usuário
+
 🛠️ Stack principal: TypeScript/React/Next.js · Java (Spring Boot) · Python (FastAPI)
+
 🏆 Certificação Oracle Database Foundations (Jun/2025)
+
 🚀 Buscando integrar times onde eu possa aplicar essa visão full-stack em produtos reais
+
 
 ---
 
