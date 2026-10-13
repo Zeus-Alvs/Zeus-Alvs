@@ -2,11 +2,11 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0D0D0D,100:1A1A2E&text=Zeus%20Alves%20Machado&fontColor=FFFFFF&fontSize=38&fontAlignY=40&desc=Full-Stack%20Developer%20%7C%20Next.js%20%C2%B7%20React%20%C2%B7%20TS%20%C2%B7%20Java%20%C2%B7%20Python&descSize=16&descAlignY=60&animation=fadeIn" width="100%" alt="banner" />
 </p>
 
-# 💫 About Me
+# Sobre mim
 
 🎓 Estudante de Desenvolvimento de Software Multiplataforma (FATEC) e Técnico em Suporte de TI (ETEC)
 
-💻 Desenvolvedor Full-Stack — do banco de dados e APIs até a interface do usuário
+💻 Desenvolvedor Full-Stack, do banco de dados e APIs até a interface do usuário
 
 🛠️ Stack principal: TypeScript/React/Next.js · Java (Spring Boot) · Python (FastAPI)
 
